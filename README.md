@@ -1,4 +1,4 @@
-# AI GPU Stress Test (RTX 5090 / Hopper / Datacenter GPUs)
+# AI GPU Stress Test 
 
 ## 🔧 Install
 ```bash
