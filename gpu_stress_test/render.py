@@ -21,7 +21,7 @@ class ConsoleRenderer:
         total_gib = snap.get("mem_total_gib")
         requested_target = config.target_vram_gib or ((total_gib or 0.0) * config.target_vram_ratio)
 
-        print("AI GPU Stress Test")
+        print("Storj AI GPU Stress Test")
         print("─" * 64)
         print(f"GPU           : {gpu_name}")
         print(f"GPU Class     : {config.gpu_class}")
