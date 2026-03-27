@@ -7,8 +7,6 @@ __pycache__/
 dist/
 build/
 
-# Test output directories
-gpu_stress_*/
 
 # Claude
 .claude/
