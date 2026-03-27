@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Test output directories
+gpu_stress_*/
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
